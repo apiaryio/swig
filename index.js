@@ -171,3 +171,5 @@ exports.compile = function (source, options) {
         return tmpl.render(source, options);
     };
 };
+
+exports.config = _config
