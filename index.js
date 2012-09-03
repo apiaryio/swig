@@ -173,3 +173,6 @@ exports.compile = function (source, options) {
 };
 
 exports.config = _config
+exports.filters = filters;
+exports.helpers = helpers;
+
